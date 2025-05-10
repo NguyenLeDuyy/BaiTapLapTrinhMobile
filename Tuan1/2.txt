@@ -1,0 +1,6 @@
+Theo em, trong lương lai gần thì lập trình di động sẽ còn phát triển nữa.
+Lý do là vì:
+- Công nghệ ngày càng phát triển => Ngày càng thõa mãn được nhu cầu của con người và
+thiết bị di động được xem là một công cụ vô cùng tiện lợi để thõa nhu cầu đó.
+- Nhu cầu sử dụng tiện thoại ngày càng tăng lên, ai ra đường cũng phải có một chiếc điện thoại
+thông minh bên mình.i
